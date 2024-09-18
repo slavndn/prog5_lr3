@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+slavniyDM/__init__.py
+slavniyDM/main.py
+slavniy_pypi_package.egg-info/PKG-INFO
+slavniy_pypi_package.egg-info/SOURCES.txt
+slavniy_pypi_package.egg-info/dependency_links.txt
+slavniy_pypi_package.egg-info/top_level.txt

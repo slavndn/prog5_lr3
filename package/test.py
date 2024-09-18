@@ -1,0 +1,1 @@
+from slavniyDM import main 

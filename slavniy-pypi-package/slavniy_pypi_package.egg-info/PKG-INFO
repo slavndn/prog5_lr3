@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: slavniy-pypi-package
+Version: 0.1.2
+Summary: https://github.com/slavndn/prog5_lr3
+Home-page: https://github.com/slavndn/prog5_lr3
+Author: Slavniy D. M. 
+Author-email: herzenmoon@gmail.com
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This is a simple exercise to publish a package onto PyPi. 
+In order to understand what the package is capable of, you need to run the command "from slavniyDM import main"
