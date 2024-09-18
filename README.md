@@ -100,6 +100,24 @@ https://test.pypi.org/project/slavniy-pypi-package/0.0.1/
 PS C:\home\study\prog5\lr3\slavniy-pypi-package> 
 ```
 
+7. Создал новый проект, далее установил свой пакет следующей командой
+
+```
+pip install -i https://test.pypi.org/simple/ slavniy-pypi-package
+```
+
+8. Выполнил команду
+
+```
+from slavniyDM import main 
+```
+
+Результат: 
+
+PS C:\home\study\prog5\lr3\package> & C:/Users/Herze/AppData/Local/Programs/Python/Python312/python.exe c:/home/study/prog5/lr3/package/test.py
+Hello World
+PS C:\home\study\prog5\lr3\package>
+
 Скриншоты: 
 
 ![image](https://github.com/user-attachments/assets/a278c29e-7319-4a8e-95dc-07fe6f4092c1)
@@ -112,3 +130,4 @@ PS C:\home\study\prog5\lr3\slavniy-pypi-package>
 
 ![image](https://github.com/user-attachments/assets/d50a5772-9ee2-4dec-a186-2733f436c084)
 
+![image](https://github.com/user-attachments/assets/6dbf9577-e83e-4965-b20c-54cdec42ecd8)
