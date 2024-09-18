@@ -109,3 +109,6 @@ PS C:\home\study\prog5\lr3\slavniy-pypi-package>
 ![image](https://github.com/user-attachments/assets/857d6bb2-3780-400c-b586-e2e01db980e7)
 
 ![image](https://github.com/user-attachments/assets/a5f4aee8-8a18-4209-a947-e757734466c0)
+
+![image](https://github.com/user-attachments/assets/d50a5772-9ee2-4dec-a186-2733f436c084)
+
